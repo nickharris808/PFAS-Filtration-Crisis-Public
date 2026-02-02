@@ -1,0 +1,7 @@
+Technology,Capital_per_MGD_USD,Annual_OM_per_MGD_USD,Replacement_Interval_Years,Disposal_Cost_per_Ton_USD,PFOS_Removal_Percent,PFOA_Removal_Percent,PFBS_Removal_Percent,Energy_kWh_per_1000gal,Notes
+GAC,800000,150000,1.5,3000,85,80,15,0.1,"Most common; poor short-chain; single use"
+IX_SingleUse,1000000,200000,2,3500,95,92,30,0.1,"Better than GAC; still poor short-chain"
+IX_Regenerable,1200000,120000,5,1500,95,92,30,0.1,"Regeneration produces concentrated brine"
+RO,2000000,250000,7,500,98,96,75,3.0,"High energy; reject stream requires disposal"
+NF,1500000,180000,7,500,92,88,55,1.5,"Lower pressure than RO; worse rejection"
+Novel_Projected,600000,80000,10,200,99,99,95,0.1,"Molecular capture; regenerable 100+ cycles"
