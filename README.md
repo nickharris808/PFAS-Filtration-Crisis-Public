@@ -865,7 +865,7 @@ This mechanism — called the "Quantum Sieve" — was validated through three in
 
 1. **Born analytical model** (Rashin-Honig corrected): 1-11% error vs. Marcus 1997 experimental data
 2. **GROMACS molecular dynamics** (umbrella sampling on NVIDIA A100): Li+=7.1, Na+=10.9, K+=7.7 kJ/mol barriers at 7A graphene oxide pore
-3. **CP2K density functional theory** (105-atom GO pore, PBE/DZVP-MOLOPT): Na+/Li+ selectivity = +22.5 kJ/mol
+3. **CP2K density functional theory** (105-atom GO pore, PBE/DZVP-MOLOPT): Na+/Li+ selectivity: preliminary (three methods under comparison)
 
 ### Relevance to PFAS
 
